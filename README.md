@@ -18,7 +18,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Hiruy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Hiruy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiruykassa&show_icons=true&theme=radical)
 
 ---
 
