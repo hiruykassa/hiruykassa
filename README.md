@@ -17,10 +17,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Hiruy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiruykassa&show_icons=true&theme=radical)
-
----
-
 > _"Building a bridge between data and decision-making through code."_
 
