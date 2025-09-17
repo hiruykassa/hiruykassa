@@ -1,7 +1,7 @@
 ## Hello, I'm Hiruy! 👋
 
 🎓 **Computer Science Major**  
-📊 **Economics Major**  
+📊 **Data Science and Business Marketing Minor**  
 
 
 ---
