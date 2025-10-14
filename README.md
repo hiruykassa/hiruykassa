@@ -1,8 +1,6 @@
 ## Hi, I'm Hiruy! 👋
 
-🎓 **Computer Science Major**  
-📊 **Data Science Minor**  
-
+I'm a junior in University of St thomas.
 
 ---
 
