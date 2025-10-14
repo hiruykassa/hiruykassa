@@ -1,16 +1,18 @@
-## Hello, I'm Hiruy! 👋
+## Hi, I'm Hiruy! 👋
 
 🎓 **Computer Science Major**  
-📊 **Data Science and Business Marketing Minor**  
+📊 **Data Science Minor**  
 
 
 ---
 
 ## 🔧 Skills
-- **Languages**: C++, Python, R
-- **Tools**: Git, Kaggle 
-- **Interests**: Data Science,software design, Web Development
+- **Languages**: Java, Python, C++, JavaScript, HTML/CSS, R
+- **Frameworks**: React Native, Flask, WordPress
+- **Developer Tools**: Git, GitHub, AWS (Lambda, Amplify), Vercel, VS Code, ClickUp
+- **Developer Tools**: Firebase, pandas, NumPy
 
+  
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hiruy-kassa-b17922297/)
 [![Email](https://img.shields.io/badge/Email-Contact-brightgreen)](mailto:hiruygirmak@gmail.com)
