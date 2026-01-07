@@ -1,10 +1,10 @@
-# Hi there, I'm Hiruy Kassa 👋
+# Hi, I'm Hiruy Kassa 
 
 I'm a Computer Science student at the University of St. Thomas with a passion for building impactful applications and analyzing data to drive meaningful insights.
 
 ## 🚀 About Me
 
-- 🎓 B.S. Computer Science with a Minor in Data Science (GPA: 3.8)
+- 🎓 B.S. Computer Science with a Minor in Data Science (GPA: 3.7)
 - 💼 **Actively seeking Summer 2025 Software Engineering & Data Science internships**
 - 🔭 Building **Kryst**, a cross-platform social media app with AI-driven content ranking
 - 📊 Experienced in full-stack development, data analysis, and cloud technologies
