@@ -1,28 +1,50 @@
-# Hi, I'm Hiruy! 👋
+# Hi, I’m **Hiruy Kassa** 👋
 
-**Computer Science Junior @ University of St. Thomas**  
-Building intelligent solutions at the intersection of data and technology.
+**Computer Science Junior (Data Science Minor) @ University of St. Thomas | GPA: 3.8**
+I build scalable software and data-driven systems with a focus on real-world impact, automation, and analytics.
 
----
-
-## 💻 Technical Skills
-
-**Languages**  
-Java • Python • C++ • JavaScript • HTML/CSS • R
-
-**Frameworks & Libraries**  
-React Native • Flask • WordPress • pandas • NumPy
-
-**Tools & Platforms**  
-Git & GitHub • AWS (Lambda, Amplify) • Firebase • Vercel • VS Code • ClickUp
+I have hands-on experience across **software engineering, data analysis, and IT systems**, working with production datasets, cloud platforms, and cross-platform applications.
 
 ---
 
-## 🌐 Let's Connect
+## 💻 Technical Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiruy-kassa-b17922297/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiruygirmak@gmail.com)
+**Software & Application Development**
+
+* React Native, Expo, Firebase (Auth, Firestore, Storage)
+* Cross-platform mobile development and backend integration
+* API design, cloud services, and automation
+
+**Data & Analytics**
+
+* Python (pandas, NumPy), SQL, Matplotlib
+* Funnel analysis, customer segmentation, and revenue optimization
+* Automating reporting workflows and extracting insights from 100k+ record datasets
+
+**Systems & Infrastructure**
+
+* AWS (Lambda, DynamoDB, Amplify)
+* Git/GitHub, Linux/macOS/Windows troubleshooting
+* IT support and systems diagnostics at scale
 
 ---
 
-> *"Transforming data into decisions, one line of code at a time."*
+## 🚀 Projects
+
+**Kryst Mobile App**
+Cross-platform social media application with real-time messaging, media uploads, and AI-driven content ranking using OpenAI embeddings.
+
+**E-commerce Funnel Optimization**
+Analyzed 100k+ transaction records to identify conversion drivers and revenue bottlenecks, uncovering 15%+ potential revenue lift through targeted optimizations.
+
+---
+
+## 🌐 Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/hiruykassa)
+[GitHub](https://github.com/hiruykassa)
+📧 [hiruygirmak@gmail.com](mailto:hiruygirmak@gmail.com)
+
+---
+
+> *Turning data into insight and ideas into production-ready software.*
