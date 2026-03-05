@@ -4,7 +4,7 @@ I'm a Computer Science student at the University of St. Thomas with a passion fo
 
 ## 🚀 About Me
 
-- 🎓 B.S. Computer Science with a Minor in Data Science (GPA: 3.7)
+- 🎓 B.S. Computer Science with a Minor in Data Science (GPA: 3.6)
 - 💼 **Actively seeking Summer 2025 Software Engineering & Data Science internships**
 - 🔭 Building **Kryst**, a cross-platform social media app with AI-driven content ranking
 - 📊 Experienced in full-stack development, data analysis, and cloud technologies
@@ -47,7 +47,7 @@ Data analysis project identifying conversion drivers and revenue opportunities
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/hiruykassa)
+- 💼 [LinkedIn](https://www.linkedin.com/in/hiruy-kassa-b17922297/)
 - 📧 hiruygirmak@gmail.com
 - 🌐 [Portfolio](https://hiruykassa.github.io/Portfolio/)
 
