@@ -1,79 +1,188 @@
-# Hi, I'm Hiruy Kassa 
+# Hi, I'm Hiruy Kassa 👋
+
+📧 hiruygirmak@gmail.com · [LinkedIn](https://www.linkedin.com/in/hiruy-kassa-b17922297/) · [GitHub](https://github.com/hiruykassa) · [Portfolio](https://hiruykassa.github.io/Portfolio/)
 
 I'm a Computer Science student at the University of St. Thomas with a passion for building impactful applications and analyzing data to drive meaningful insights.
 
-## 🚀 About Me
+---
 
-- 🎓 B.S. Computer Science with a Minor in Data Science (GPA: 3.6)
+## 🚀 About Me
+- 🎓 B.S. Computer Science (GPA: 3.6 | Dean's List)
 - 💼 **Actively seeking Summer 2025 Software Engineering & Data Science internships**
-- 🔭 Building **Kryst**, a cross-platform social media app with AI-driven content ranking
-- 📊 Experienced in full-stack development, data analysis, and cloud technologies
-- 💡 Previous intern at VivaTC where I automated workflows and analyzed 100k+ record datasets
+- 💡 Previous intern at VivaTC where I built data pipelines and analyzed 100K+ user activity records
 - 🌱 Always learning and exploring new technologies
+
+---
 
 ## 💻 Technical Skills
 
-**Languages & Frameworks:**  
-React Native • JavaScript • Python • C++ • Java • HTML/CSS • Flask • R
+**Languages:** C++, Python, Java, JavaScript
 
-**Cloud & Tools:**  
-Firebase • AWS (Lambda, DynamoDB, Amplify) • Git/GitHub • SQL
+**Tools:** Git, GitHub, CMake, VS Code, TeamDynamix
 
-**Data & Analytics:**  
-Pandas • NumPy • Excel • Matplotlib
+**Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Debugging, Unit Testing
 
-**Design & Collaboration:**  
-Figma • Canva • WordPress • ClickUp
-
-## 🛠️ Featured Projects
-
-### [Kryst Mobile App](https://github.com/hiruykassa)
-A cross-platform social media application built with React Native and Firebase
-- Real-time messaging and personalized content feeds
-- AI-driven content ranking using OpenAI embeddings
-- Media upload pipeline with automated compression and metadata tagging
-
-### [E-commerce Funnel Optimization](https://github.com/hiruykassa/Ecommerce-Funnel-Analysis)
-Data analysis project identifying conversion drivers and revenue opportunities
-- Analyzed 100k+ transaction records to identify funnel drop-off points
-- Delivered insights showing 15%+ revenue lift potential in underperforming segments
-- Built comprehensive visualizations using Python and Matplotlib
+---
 
 ## 📊 Experience Highlights
 
-- **IT Help Desk Assistant** - Resolving tech issues for 3,000+ users with 90%+ same-day resolution
-- **Data & Web Intern** - Automated reporting workflows, reducing manual work by ~40%
-- **Social Media Manager** - Managing content for EthioGBFF nonprofit to drive donor engagement
+- **Software & Data Engineering Intern** at VivaTC — Built Python data pipelines, analyzed 100K+ records, reduced manual reporting workflows, and delivered data-driven visualizations to support business decisions
+- **IT Help Desk Assistant** at St. Olaf College — 90%+ same-day resolution rate across 50+ weekly tickets for 3,000+ students and staff
 
-## 🤝 Let's Connect
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/hiruy-kassa-b17922297/)
-- 📧 hiruygirmak@gmail.com
-- 🌐 [Portfolio](https://hiruykassa.github.io/Portfolio/)
+## 🛠️ Projects
+
+---
+
+### 🌐 Personal Portfolio Website
+A personal portfolio website built with HTML, CSS, and JavaScript showcasing my academic background, technical skills, and projects.
+
+**Tech Stack:** HTML, CSS, JavaScript, Google Fonts (Nunito)
+
+**Features:**
+- Home Page – Professional introduction with a personal summary and image
+- Projects Page – Highlights academic and personal projects with descriptions and visuals
+- Resume Section – Includes a downloadable PDF of my resume
+- Contact Page – Links for networking and professional connections
+- Responsive Design – Optimized for both desktop and mobile devices
+
+🔗 Live Site: [hiruykassa.github.io/Portfolio](https://hiruykassa.github.io/Portfolio/)
+
+**Future Improvements:**
+- Add more interactive elements and animations
+- Integrate a contact form with email notifications
+- Expand the project showcase with live demos and GitHub links
+
+---
+
+### 📈 E-Commerce Funnel Optimization Study
+Analyzes customer behavior through an e-commerce purchase funnel using the Online Retail (UCI) dataset. Identifies where customers drop off, which customers drive revenue, and which products contribute most to sales.
+
+**Tech Stack:** Python (pandas, numpy), Matplotlib, Jupyter Notebooks, openpyxl
+
+**Business Questions Addressed:**
+- Where are the biggest drop-off points in the customer journey (first-time → repeat → high-value)?
+- What share of customers become engaged (2+ orders) and repeat (2+ months)?
+- Which customer segments (UK vs International) differ in value and repeat behavior?
+- Which RFM segments (Champions, Loyal, At Risk, etc.) drive revenue?
+- Which products contribute the most revenue, and how concentrated is that revenue?
+
+**Dataset:** UCI Online Retail Dataset — ~541,909 raw transactions (2010–2011)
+
+**Key Results:**
+- Raw transactions: 541,909
+- Missing CustomerID removed: 135,080 (~24.9%)
+- Returns separated: 8,905 (~2.0%)
+- Additional outliers/bad rows removed: 5,805
+- Clean transactions saved: 392,119
+
+**Project Structure:**
+```
+ecommerce-funnel-analysis/
+├── data/
+│   ├── raw/                      # (local) Online Retail.xlsx (ignored)
+│   └── processed/                # Outputs generated by notebooks
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   ├── 03_funnel_analysis.ipynb
+│   └── 04_final_report.ipynb
+├── reports/
+│   └── final_report.html
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
+
+**How to Run:**
+```bash
+pip install -r requirements.txt
+# Download Online Retail.xlsx from UCI and place in data/raw/
+# Run notebooks in order: 01 → 02 → 03 → 04
+```
+
+**AI Tools Used (Disclosure):**
+- ChatGPT: Used to clarify concepts, debug notebook issues, and refine analysis storytelling
+- Claude: Used for cross-checking project structure and reviewing documentation clarity
+- GitHub Copilot: Used for code autocomplete and speeding up routine Python/Jupyter edits
+
+*All analysis decisions, data cleaning logic, and final interpretations were reviewed and executed by me.*
+
+🔗 [View Repository](https://github.com/hiruykassa/Ecommerce-Funnel-Analysis)
+
+---
+
+### 🏦 Bank Account System
+A C++ banking system built with object-oriented design principles to manage core account operations.
+
+**Tech Stack:** C++, CMake
+
+**Features:**
+- Manages account creation, deposits, withdrawals, and balance tracking
+- Implemented encapsulation and modular class structures for maintainability and scalability
+- Built and executed unit tests to validate core functionality and improve code reliability
+
+🔗 [View Repository](https://github.com/hiruykassa)
+
+---
+
+### 🐍 Small Projects Collection
+A suite of Python applications covering financial, probabilistic, and utility tools — built to strengthen core programming skills.
+
+**Tech Stack:** Python
+
+**Features:**
+- Financial trackers, probability simulators, and time/geometry calculators
+- Applied OOP, simulations, and data structures across all projects
+- Features input validation, string formatting, and time calculations for robust CLI tools
+
+🔗 [View Repository](https://github.com/hiruykassa)
+
+---
+
+### 🌍 FlagFinder
+A simple web application that allows users to search for and display country flags.
+
+**Tech Stack:** Python (Flask), HTML, CSS
+
+**Features:**
+- Search for a country by name
+- Display the corresponding country flag
+- Simple and lightweight design for quick lookups
+
+**Languages:**
+- Python 91.5% · HTML 5.0% · CSS 3.5%
+
+**Getting Started:**
+```bash
+git clone https://github.com/hiruykassa/FlagFinder.git
+cd FlagFinder
+pip install -r requirements.txt
+python app.py
+```
+
+🔗 [View Repository](https://github.com/hiruykassa/FlagFinder)
+
+---
 
 ## 🌟 Community Involvement
 
-- **ColorStack Member** - Engaging with Black and Latinx CS students through workshops and networking
-- **EthioGBFF Social Media Manager** - Supporting education scholarships for Ethiopian girls
-- **Club Soccer Second Captain** - Leading team coordination and mentoring players
+- **ColorStack Member** — Engaging with Black and Latinx CS students through career development programs and technical workshops
+- **Data Science & CS Club Member** — Technical workshops, coding sessions, and collaborative projects at the University of St. Thomas
+- **Club Soccer Second Captain** — Led a 20+ person roster, coordinating practices and mentoring players
 
 ---
 
 ## 🎯 Looking for Summer 2025 Internships
 
 I'm actively seeking software engineering and data science internship opportunities where I can:
-- Apply my skills in full-stack development and data analysis
+- Apply my skills in programming and data analysis
 - Work on real-world problems that create impact
 - Learn from experienced engineers and contribute to meaningful projects
 
-**What I bring:**
-- Strong foundation in CS fundamentals and data structures
-- Hands-on experience with React Native, Python, Firebase, and AWS
-- Proven ability to deliver results (automated workflows saving 40% time, 90%+ resolution rate)
-- Quick learner with experience adapting to new technologies and teams
-
-**Interested in roles:** Software Engineering Intern, Data Science Intern, Full-Stack Developer Intern, Backend Engineering Intern
+**Interested in roles:** Software Engineering Intern · Data Science Intern · Backend Engineering Intern
 
 ---
 
-💡 *Open to collaboration on interesting projects and internship opportunities!*
+📝 *Open to collaboration on interesting projects and internship opportunities!*
