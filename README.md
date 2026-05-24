@@ -6,7 +6,7 @@ Passionate about building AI-powered systems and solving real-world problems wit
 
 ### 🧑‍💻 About Me
 - 🎓 B.S. Computer Science — graduating May 2027
-- 💼 Seeking **Fall 2026 / Summer 2027** Software Engineering, Data Engineering & AI Engineering internships
+- 💼 Seeking **Fall 2026 / Summer 2027** Software Engineering, AI Engineering, Data Engineering & IT/Systems Administration roles
 - 💻 Currently working as a **Technical Support Specialist** at UST ITS
 - 🔨 Building **Ask the Church Fathers** — a full-stack semantic search engine with hybrid search and Claude AI synthesis
 - 🧠 Actively practicing DSA on NeetCode to prep for technical interviews
