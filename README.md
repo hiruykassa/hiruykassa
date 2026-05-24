@@ -6,8 +6,9 @@ Passionate about building AI-powered systems and solving real-world problems wit
 
 ### 🧑‍💻 About Me
 - 🎓 B.S. Computer Science — graduating May 2027
-- 💼 Seeking **Summer 2026** Software Engineering, Data Engineering & AI Engineering internships
-- 🔨 Currently building **Ask the Church Fathers**, a full-stack semantic search engine with hybrid search and Claude AI synthesis
+- 💼 Seeking **Fall 2026 / Summer 2027** Software Engineering, Data Engineering & AI Engineering internships
+- 💻 Currently working as a **Technical Support Specialist** at UST ITS
+- 🔨 Building **Ask the Church Fathers** — a full-stack semantic search engine with hybrid search and Claude AI synthesis
 - 🧠 Actively practicing DSA on NeetCode to prep for technical interviews
 - 📍 Saint Paul, MN
 
@@ -28,6 +29,7 @@ Passionate about building AI-powered systems and solving real-world problems wit
 ### 📌 Featured Projects
 
 - ⛪ **[Ask the Church Fathers](https://github.com/hiruykassa/ask-the-church-fathers)** *(In Progress)* — Full-stack semantic search engine over early Church Fathers texts. Hybrid BM25 + vector search, Flask REST API, ETL pipeline, Claude AI synthesis. React + Vite frontend, deployed on Netlify + Render.com.
+- 🏗️ **[FZ Contracting — AI Workflow Design](https://github.com/hiruykassa)** — Designed a 6-stage agentic AI automation system for a real contracting business using MCP, Google Calendar API, and SMS integration.
 - 📊 **[E-Commerce Funnel & RFM Analysis](https://github.com/hiruykassa/Ecommerce-Funnel-Analysis)** — 4-stage data pipeline on 541K+ transactions revealing a 34.6% drop-off and 51.8% revenue concentration in top 10% of customers.
 - 🏦 **[Bank Account System](https://github.com/hiruykassa)** — C++ OOP banking system with unit tests and CMake build system.
 - 🧠 **[NeetCode DSA Practice](https://github.com/hiruykassa/neetcode-submissions-1n3k7kim)** — Ongoing LeetCode-style problem solving in Python. Actively working through arrays, hashmaps, trees, and binary search for technical interview prep.
